@@ -6,7 +6,6 @@ import {
   generateImage, 
   removeImageObject, 
   resumeReview,
-  removeImageBackground
 } from "../controllers/aiControllers.js";
 import { upload } from "../configs/multer.js";
 
